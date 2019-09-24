@@ -1,4 +1,4 @@
-# feedback-bot
+# slack-feedback-bot
 Just a simple slack feedback bot.
 
 ## Setup
